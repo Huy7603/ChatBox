@@ -20,3 +20,4 @@ src/
   script.js
 docs/
 README.md
+
