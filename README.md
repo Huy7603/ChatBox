@@ -13,3 +13,10 @@
 
 ## Cách chạy
 Mở file index.html
+
+src/
+  index.html
+  style.css
+  script.js
+docs/
+README.md
